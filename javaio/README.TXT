@@ -1,0 +1,1 @@
+2. Operacje wyjścia-wejścia i instrukcje sterujące.

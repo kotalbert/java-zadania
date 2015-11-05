@@ -1,5 +1,5 @@
 *.class
-*.ctext
+*.ctxt
 *.bluej
 
 # Mobile Tools for Java (J2ME)
